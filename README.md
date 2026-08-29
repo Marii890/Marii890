@@ -1,5 +1,5 @@
 
-## Ola! Eu sou a Mari, bem vindo ao meu perfil 🪻
+## HELLO WORLD 🤖
 
 ## STACKS 🔗
 <div align="left">
